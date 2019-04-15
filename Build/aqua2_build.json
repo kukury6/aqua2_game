@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "aqua2",
+"dataUrl": "aqua2_build.data.unityweb",
+"asmCodeUrl": "aqua2_build.asm.code.unityweb",
+"asmMemoryUrl": "aqua2_build.asm.memory.unityweb",
+"asmFrameworkUrl": "aqua2_build.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
